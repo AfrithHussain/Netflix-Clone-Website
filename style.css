@@ -23,7 +23,7 @@ button{
     }
     .main-1{
         border-bottom: 10px solid rgba(128, 128, 128, 0.592);
-        width: 990px;
+        width: 1600px;
     }
     .net-img{
         width: 90%;
@@ -914,9 +914,9 @@ button{
         left: 570px;
     }
   
-    .border{
-        transform: translate(50px , 150px);
-        border: 5px solid rgba(128, 128, 128, 0.47);
+    .border{ width: 999px;
+        transform: translate(-54px , 150px);
+        border: 3px solid rgba(128, 128, 128, 0.47);
     }
     .main-2{
         width: 990px;
@@ -982,7 +982,7 @@ button{
         color: white;
         gap: 0px;
         margin: 250px;
-        padding: 0px;
+       
         margin-top: 100px;
         
         
@@ -991,9 +991,9 @@ button{
 
 .inner-content img{
       width: 400px;
-      height: 400px;
+      height: 380px;
       object-fit: cover;
-      transform: translate(-260px,190px);
+      transform: translate(-260px,250px);
 
       
 
@@ -1001,7 +1001,7 @@ button{
 
 .inner-content-2{
    position: absolute;
-   left: 10%;
+   left: 1%;
    top: 145%;
 }
    .inner-content-2 h1{
@@ -1102,7 +1102,7 @@ button{
     
     }
     .co-1 p{
-        font-size: 1.70vmax;
+        font-size: 2.40vmax;
         width: 95%;
         text-align: center;
         line-height: 38px;
@@ -1163,7 +1163,7 @@ button{
         padding: 7px 26px;
         background-color: red;
         color: white;
-        font-size: 22px;
+        font-size: 16px;
         border: none;
         font-weight: bold;
         border-radius: 6px;
@@ -1174,7 +1174,9 @@ button{
     .svg-3{
        position: absolute;
         right: 1px;
-        bottom: 10px;
+        bottom: 8px;
+        width: 20px;
+        height: 20px;
     }
     
     
